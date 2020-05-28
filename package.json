@@ -22,7 +22,7 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.15",
-    "minio": "^7.0.13",
+    "minio": "^7.0.16",
     "moment": "^2.24.0",
     "mongoose": "^5.9.1",
     "mongoose-autorefs": "^1.0.5",
