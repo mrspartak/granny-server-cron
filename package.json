@@ -21,7 +21,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "minio": "^7.0.13",
     "moment": "^2.26.0",
     "mongoose": "^5.9.17",
